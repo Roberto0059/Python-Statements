@@ -1,4 +1,4 @@
-<h1> Python-Variables Lab</h1>
+<h1> Python-Statements Lab</h1>
 
 
 <h2>Description</h2>
